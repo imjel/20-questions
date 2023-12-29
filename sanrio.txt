@@ -1,0 +1,31 @@
+Is this character an animal?
+	Does this character have white fur?
+		Is this character popular?
+			Does this character wear something on their head?
+				Is this character 5 apples tall?
+					Hello Kitty
+					Is this character mischievous?
+						Kuromi
+						My Melody
+				Is this character athletic?
+					Pochacco
+					Cinnamoroll
+			Is this character a panda?
+				Does this character have bombastic side-eye?
+					Pannapitta
+					Pandapple
+				Charmmy Kitty
+		Is this character a mammal?
+			Does this character's name reference a food?
+				Does this character have a sweet smile?
+					Pompompurin
+					ChocoCat
+				Does this character work an office job?
+					Aggretsuko
+					Badtz-Maru
+			Does this character wear clothes?
+				Does this character live in Donut Pond?
+					Keroppi
+					Tuxedo Sam
+				Hangyodon
+	Gudetama
